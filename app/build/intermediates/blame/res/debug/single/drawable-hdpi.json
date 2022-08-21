@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_signup.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/btn_signup.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/signin_popup.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/signin_popup.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/landing.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/landing.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_browse.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/btn_browse.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/main_bg.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/main_bg.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_lend.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/btn_lend.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/editbox_bg.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/editbox_bg.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_signin.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/btn_signin.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/sundar_pichai.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/sundar_pichai.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/menu_bg.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/menu_bg.png"
+    },
+    {
+        "merged": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/src/main/res/drawable-hdpi/logo.png"
+    }
+]
