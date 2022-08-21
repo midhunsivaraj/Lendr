@@ -1,7 +1,0 @@
-#Wed Mar 15 17:59:45 IST 2017
-base.0=/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_480dcb04ba4d296918c4e9119508d5f554e83218
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9122077af0ad288eb6ec31e82306a44a760d96e7/classes.dex
-base.1=/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9122077af0ad288eb6ec31e82306a44a760d96e7
-file.0=/Users/midhunsivaraj/Desktop/Lendr/Lendr/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_480dcb04ba4d296918c4e9119508d5f554e83218/classes.dex
